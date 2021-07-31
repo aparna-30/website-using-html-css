@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background: #f1f1f1;
+}
+
+/*header/blog title */
+.header
+{
+    background-color: black;
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+}
+
+/* create two unequal column that floats next to each other*/
+/*left column */
+.leftColumn{
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+}
+
+.rightColumn{
+    float: right;
+    width: 25%;
+    padding-left: 20px;
+}
+
+.card{
+    background-color: wheat;
+    padding: 30px;
+    margin-top: 20px
+}
+
+
